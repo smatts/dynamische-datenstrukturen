@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://smatts.github.io/dynamische-datenstrukturen/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://smatts.github.io/dynamische-datenstrukturen/document.epub)
+* [PDF](https://smatts.github.io/dynamische-datenstrukturen/document.pdf)
+* [HTML](https://smatts.github.io/dynamische-datenstrukturen/document.html)
 
 # Use this template
 
